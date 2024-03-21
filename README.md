@@ -1,48 +1,19 @@
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
-
 
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+<img src="img/Screenshot_20-3-2024_142552_localhost.jpeg">
 
-[![Product Name Screen Shot][product-screenshot]](![image]([https://github.com/phamkimthoa/Project_PRJ/assets/124784783/59160d5e-6d9a-4c42-9b64-96d6a25c9217](https://github.com/phamkimthoa/Project_PRJ/blob/main/img/Screenshot_20-3-2024_142552_localhost.jpeg))
-)
+Project Overview: Our project aims to revolutionize the way people manage their daily tasks by providing a comprehensive and intuitive task management solution.
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+Purpose: Designed with simplicity and efficiency in mind, our project seeks to streamline task organization, enhance productivity, and minimize stress in users' lives.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+Target Audience: Our target audience includes individuals from all walks of life, ranging from students and professionals to homemakers and entrepreneurs.
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+Features: With a plethora of features such as task categorization, priority setting, deadline tracking, and collaboration tools, our project offers unparalleled flexibility and functionality.
 
-Use the `BLANK_README.md` to get started.
+User-Friendly Interface: The user interface of our project is carefully crafted to be user-friendly, ensuring ease of navigation and a seamless user experience for all users.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -65,85 +36,94 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 
 
-<!-- GETTING STARTED -->
-## Getting Started
+### Home
+HOME DEMO 
+
+<img src="img/Ảnh chụp màn hình 2024-03-21 101117.png">
+
+
+### Login
+LOGIN DEMO 
+
+<img src="img/login.png">
+
+### ForgotPass
+FORGOTPASSWORD DEMO
+
+<img src="img/Ảnh chụp màn hình 2024-03-21 102828.png">
+
+### forgot2
+SEND EMAIL WHEN FORGOT PASS
+
+<img src="img/forgot2.png">
+
+### adminlogin
+ADMIN LOGIN DEMO 
+
+<img src="img/adminlogin.png">
+
+## userlogin
+USER LOGIN DEMO 
+
+<img src="img/userlogin.png">
+
+
+<!-- HOME -->
+## CRUD 
+INSERT , CREATE , UPDATE AND DELETE FOR ADMIN 
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+<img src="img/CRUD .png">
 
-### Installation
+### Update for Admin
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+<img src="img/update.png">
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+### Insert for Admin
+
+<img src="img/insert.png">
+
+
+### Filter by Category
+
+
+<img src="img/Ảnh chụp màn hình 2024-03-21 101308.png">
+
+
+### Load latest product inserted
+
+
+<img src="img/loadlatestpro.png">
 
 
 
-<!-- USAGE EXAMPLES -->
-## Usage
+### TOP seller product
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<img src="img/top6.png">
 
 
 
-<!-- ROADMAP -->
-## Roadmap
+### Detail Information about Product
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<img src="img/detail.png">
 
 
 
-<!-- CONTRIBUTING -->
-## Contributing
+### Your cart 
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
+<img src="img/cart.png">
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+### Bill
+
+<img src="img/bill.png">
 
 
 
@@ -156,32 +136,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 
-<!-- CONTACT -->
-## Contact
-
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
